@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/atlastool.dir/atlastool.cpp.o  -o atlastool  -L/opt/local/lib -Wl,-rpath,/opt/local/lib -rdynamic -lfreetype util/libutil.a image/libimage.a png17/libpng17.a -lz rg_etc1/librg_etc1.a file/libfile.a base/libbase.a -lzip 

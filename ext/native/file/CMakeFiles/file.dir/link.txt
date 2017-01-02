@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfile.a  CMakeFiles/file.dir/chunk_file.o CMakeFiles/file.dir/zip_read.o CMakeFiles/file.dir/file_util.o CMakeFiles/file.dir/free.o
+/usr/bin/ranlib libfile.a

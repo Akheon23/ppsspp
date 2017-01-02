@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblin.a  CMakeFiles/lin.dir/lin/matrix4x4.o CMakeFiles/lin.dir/lin/vec3.o CMakeFiles/lin.dir/lin/quat.o CMakeFiles/lin.dir/curves.o CMakeFiles/lin.dir/math_util.o
+/usr/bin/ranlib liblin.a

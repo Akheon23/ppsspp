@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgfx.a  CMakeFiles/gfx.dir/gl_debug_log.cpp.o CMakeFiles/gfx.dir/gl_lost_manager.cpp.o CMakeFiles/gfx.dir/texture_atlas.cpp.o
+/usr/bin/ranlib libgfx.a

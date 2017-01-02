@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkirk.a  CMakeFiles/kirk.dir/AES.o CMakeFiles/kirk.dir/bn.o CMakeFiles/kirk.dir/ec.o CMakeFiles/kirk.dir/kirk_engine.o CMakeFiles/kirk.dir/SHA1.o
+/usr/bin/ranlib libkirk.a

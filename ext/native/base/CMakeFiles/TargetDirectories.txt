@@ -1,0 +1,4 @@
+/sdcard/workspace/ppsspp-master/ext/native/base/CMakeFiles/rebuild_cache.dir
+/sdcard/workspace/ppsspp-master/ext/native/base/CMakeFiles/edit_cache.dir
+/sdcard/workspace/ppsspp-master/ext/native/base/CMakeFiles/timeutil.dir
+/sdcard/workspace/ppsspp-master/ext/native/base/CMakeFiles/base.dir

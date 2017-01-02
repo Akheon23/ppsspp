@@ -1,0 +1,4 @@
+/sdcard/workspace/ppsspp-master/ext/native/json/CMakeFiles/rebuild_cache.dir
+/sdcard/workspace/ppsspp-master/ext/native/json/CMakeFiles/edit_cache.dir
+/sdcard/workspace/ppsspp-master/ext/native/json/CMakeFiles/json_writer_test.dir
+/sdcard/workspace/ppsspp-master/ext/native/json/CMakeFiles/jsonwriter.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutil.a  CMakeFiles/util.dir/hash/hash.o CMakeFiles/util.dir/text/utf8.o CMakeFiles/util.dir/text/wrap_text.o
+/usr/bin/ranlib libutil.a

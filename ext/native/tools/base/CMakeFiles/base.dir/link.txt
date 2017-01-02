@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbase.a  CMakeFiles/base.dir/colorutil.cpp.o CMakeFiles/base.dir/timeutil.cpp.o CMakeFiles/base.dir/sdcard/workspace/ppsspp-master/ext/native/thread/threadutil.cpp.o CMakeFiles/base.dir/display.cpp.o CMakeFiles/base.dir/buffer.cpp.o CMakeFiles/base.dir/backtrace.cpp.o
+/usr/bin/ranlib libbase.a

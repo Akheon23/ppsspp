@@ -1,0 +1,3 @@
+/sdcard/workspace/ppsspp-master/ext/native/math/CMakeFiles/rebuild_cache.dir
+/sdcard/workspace/ppsspp-master/ext/native/math/CMakeFiles/edit_cache.dir
+/sdcard/workspace/ppsspp-master/ext/native/math/CMakeFiles/lin.dir

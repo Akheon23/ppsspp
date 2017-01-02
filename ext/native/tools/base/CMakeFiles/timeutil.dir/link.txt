@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtimeutil.a  CMakeFiles/timeutil.dir/timeutil.cpp.o
+/usr/bin/ranlib libtimeutil.a

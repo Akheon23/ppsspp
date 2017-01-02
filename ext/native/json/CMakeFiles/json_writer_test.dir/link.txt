@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/json_writer_test.dir/json_writer_test.o  -o json_writer_test -rdynamic libjsonwriter.a 

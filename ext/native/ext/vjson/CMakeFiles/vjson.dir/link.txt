@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvjson.a  CMakeFiles/vjson.dir/json.cpp.o CMakeFiles/vjson.dir/block_allocator.cpp.o
+/usr/bin/ranlib libvjson.a

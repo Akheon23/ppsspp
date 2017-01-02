@@ -1,0 +1,2 @@
+/usr/bin/ar qc libimage.a  CMakeFiles/image.dir/png_load.o CMakeFiles/image.dir/zim_load.o CMakeFiles/image.dir/zim_save.o
+/usr/bin/ranlib libimage.a

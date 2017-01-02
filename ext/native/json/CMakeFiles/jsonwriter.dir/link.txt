@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjsonwriter.a  CMakeFiles/jsonwriter.dir/json_writer.o
+/usr/bin/ranlib libjsonwriter.a
